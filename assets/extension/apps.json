@@ -122,7 +122,7 @@
   },
   {
     "title": "Kingdomly",
-    "category": "Community",
+    "category": "NFT",
     "description": "An all in one NFT Dapp, launch, mint, trade",
     "logo": "https://drive.google.com/thumbnail?id=1JNJtqQUhi-QzuJdeYB4jnmhFbwi7Cl-0",
     "url": "https://www.kingdomly.app/",
@@ -143,7 +143,8 @@
     "description": "Berachain's Native Liquidity Aggregator",
     "logo": "https://drive.google.com/thumbnail?id=1E63-JgIJ8ptQY4991Gl_fB-f9qCNR6C5",
     "url": "https://app.oogabooga.io/",
-    "pinned": false
+    "banner": "https://drive.google.com/thumbnail?id=1cY3kaOwxsJ8JMvr_Bz6UbZCTvJp2FhdJ",
+    "pinned": true
   },
   {
     "title": "Puffpaw",
@@ -179,7 +180,7 @@
   },
   {
     "title": "Sudoswap",
-    "category": "NFT",
+    "category": "Defi",
     "description": "Fully on-chain NFT AMM protocol",
     "logo": "https://drive.google.com/thumbnail?id=174g6GJ8M4YehONLj-rXKpgJgi3Dmvg-a",
     "url": "https://sudoswap.xyz/#/",
