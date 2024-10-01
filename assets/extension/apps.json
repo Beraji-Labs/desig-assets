@@ -1,11 +1,227 @@
 [
   {
-    "banner": "https://i.imgur.com/4jKWlxP.jpeg",
-    "category": "defi",
-    "description": "Proof of Liquidity in one click",
-    "logo": "https://infrared.finance/_next/static/media/infrared-logo-color.058c39b2.svg",
-    "pinned": true,
+    "title": "Bera Arena",
+    "category": "Gaming",
+    "description": "A fully on-chain RPG game",
+    "logo": "https://drive.google.com/thumbnail?id=11noOEQOxETcWKstGHC_bpetTDlFPcUDk",
+    "url": "https://play.beararena.com/",
+    "pinned": false
+  },
+  {
+    "title": "Beraborrow",
+    "category": "Defi",
+    "description": "Beraborrow unlocks instant liquidity for Berachain assets using PoL.",
+    "logo": "https://drive.google.com/thumbnail?id=1yw6WlcRjL5VKNrzTQw6ePlZHBI2OguqC",
+    "url": "https://magic.beraborrow.com/",
+    "pinned": false
+  },
+  {
+    "title": "Berabot",
+    "category": "Defi",
+    "description": "Telegram trading & sniper bot on Berachain",
+    "logo": "https://drive.google.com/thumbnail?id=1koUUiz5imFvtZ3yPsOETvE753I-4VANY",
+    "url": "https://t.me/berabotsniper",
+    "pinned": false
+  },
+  {
+    "title": "Berahorse",
+    "category": "Gaming",
+    "description": "Multiplayer Horse Racing RPG built in Unreal Engine",
+    "logo": "https://drive.google.com/thumbnail?id=1NlFmhjCmzmyoRADbJSSfotRj00HCk2xA",
+    "url": "https://berahorses.xyz/",
+    "pinned": false
+  },
+  {
+    "title": "BeraLand",
+    "category": "Community",
+    "description": "The community hub for all things Bera.",
+    "logo": "https://drive.google.com/thumbnail?id=1YwC6tNSURDdHzQ3OYVeawZF6f2qxPrhM",
+    "url": "https://app.beraland.xyz/",
+    "pinned": false
+  },
+  {
+    "title": "Beramonium Chronicles",
+    "category": "Gaming",
+    "description": "Berachain's first & biggest idle-RPG",
+    "logo": "https://drive.google.com/thumbnail?id=1MhUB4F2QesBNWE_sfyB8DqEoL2DU_UJ3",
+    "url": "https://gemhunters.beramonium.io/welcome",
+    "pinned": false
+  },
+  {
+    "title": "Beranames",
+    "category": "Community",
+    "description": "Official Name Service of Berachain",
+    "logo": "https://drive.google.com/thumbnail?id=1jTuIJa7iAHPoufc76nueHDA6aWBpIHdG",
+    "url": "https://www.beranames.com/",
+    "pinned": false
+  },
+  {
+    "title": "Berapong",
+    "category": "Gaming",
+    "description": " Decentralized native casino on Berachain",
+    "logo": "https://drive.google.com/thumbnail?id=1ucrZEGFyVD5hITkkhWthY5jLqWj42tl8",
+    "url": "https://berapong.com/",
+    "pinned": false
+  },
+  {
+    "title": "BeraTone",
+    "category": "Gaming",
+    "description": "A multiplayer, life-simulation and role-playing game for PC and mobile ",
+    "logo": "https://drive.google.com/thumbnail?id=13QvBUPmAdYKzZd152MuZp-CR4jXQJfy-",
+    "url": "https://www.beratone-game.com/",
+    "pinned": false
+  },
+  {
+    "title": "Dirac finance",
+    "category": "Defi",
+    "description": "Web3 infrastructure enabling DeFi investors to earn yield through expert derivatives strategies.",
+    "logo": "https://drive.google.com/thumbnail?id=1IfM4Yo0_O10P5iYwgeiqgfcrBZLbiaGy",
+    "url": "https://bartio.dirac.finance/",
+    "pinned": false
+  },
+  {
+    "title": "Fable Platform",
+    "category": "Gaming",
+    "description": "Entertainment hub on Berachain",
+    "logo": "https://drive.google.com/thumbnail?id=11zxiWwGFVLek6VVgBrT6ZuDG-rgjaYVc",
+    "url": "https://www.fablehub.xyz/",
+    "pinned": false
+  },
+  {
+    "title": "Gummi ",
+    "category": "Defi",
+    "description": " Leverage for Everything",
+    "logo": "https://drive.google.com/thumbnail?id=1awQGfnmn4tlaz_uOh1CNeVCgec4y_3tP",
+    "url": "https://gummi.fi/",
+    "pinned": false
+  },
+  {
+    "title": "Honeypot Finance ",
+    "category": "Defi, Launchpad",
+    "description": "DeFi Hub & PoL Accelerator on https://x.com/Berachain  ",
+    "logo": "https://drive.google.com/thumbnail?id=1ilPYULp7khQMsmqXyHeVxt9LcIMEz5Fq",
+    "url": "https://honeypotfinance.xyz/",
+    "pinned": false
+  },
+  {
     "title": "Infrared",
-    "url": "https://infrared.finance/"
+    "category": "Defi",
+    "description": "Proof of Liquidity in one click ",
+    "logo": "https://drive.google.com/thumbnail?id=1l76xvAC09JBUoSzu1CWOGTrcmustpuo6",
+    "url": "https://infrared.finance/",
+    "pinned": true,
+    "banner": "https://i.imgur.com/4jKWlxP.jpeg"
+  },
+  {
+    "title": "IVX",
+    "category": "Defi",
+    "description": "Decentralized options AMM tailored for zero days to expiry contracts",
+    "logo": "https://drive.google.com/thumbnail?id=1WCQ7bGUt8vmWDZOhh0Z4PFDcm-l8DpK3",
+    "url": "https://bartio.ivx.fi/",
+    "pinned": false
+  },
+  {
+    "title": "Kingdomly",
+    "category": "Community",
+    "description": "An all in one NFT Dapp, launch, mint, trade",
+    "logo": "https://drive.google.com/thumbnail?id=1JNJtqQUhi-QzuJdeYB4jnmhFbwi7Cl-0",
+    "url": "https://www.kingdomly.app/",
+    "pinned": false
+  },
+  {
+    "title": "Kodiak",
+    "category": "Defi",
+    "description": "Berachain's Native Liquidity Hub",
+    "logo": "https://drive.google.com/thumbnail?id=1bTrkSDPOWxDMc2SEY6rlvi1PMYKvtdTu",
+    "url": "https://kodiak.finance/",
+    "pinned": false
+  },
+  {
+    "title": "Ooga Booga",
+    "category": "Defi",
+    "description": "Berachain's Native Liquidity Aggregator",
+    "logo": "https://drive.google.com/thumbnail?id=1E63-JgIJ8ptQY4991Gl_fB-f9qCNR6C5",
+    "url": "https://app.oogabooga.io/",
+    "pinned": false
+  },
+  {
+    "title": "Puffpaw",
+    "category": "Defi, Depin",
+    "description": "Vape to earn",
+    "logo": "https://drive.google.com/thumbnail?id=1rzZ-0TqSDyoD76zXxoUYdB7uAL7pZvJA",
+    "url": "https://www.puffpaw.xyz/",
+    "pinned": false
+  },
+  {
+    "title": "Ramen FInance",
+    "category": "Defi",
+    "description": "Concentrated Liquidity AMM & Launchpad",
+    "logo": "https://drive.google.com/thumbnail?id=17fj5r8vr5g3ys-QTCk4UmsHSLHmMDi4Y",
+    "url": "https://testnet.ramen.finance",
+    "pinned": false
+  },
+  {
+    "title": "Shogun",
+    "category": "Defi",
+    "description": "The easiest way to get on-chain",
+    "logo": "https://drive.google.com/thumbnail?id=1r397PEmK0ejDJ3WcuZfpH8KfNprYwi5s",
+    "url": null,
+    "pinned": false
+  },
+  {
+    "title": "Smilee Finance",
+    "category": "Defi",
+    "description": "Hyper-Leveraged Volatility Trading. Creators of DeFi's first convex payoff",
+    "logo": "https://drive.google.com/thumbnail?id=17gWYZf81gQHT6R8egiVmRCgo6u2UEa4U",
+    "url": "https://app.smilee.finance/trade?dvp=0x550f20aA8CfAe02C5535CE9BD5b1FcE4b13361b8&strategy=bull",
+    "pinned": false
+  },
+  {
+    "title": "Sudoswap",
+    "category": "NFT",
+    "description": "Fully on-chain NFT AMM protocol",
+    "logo": "https://drive.google.com/thumbnail?id=174g6GJ8M4YehONLj-rXKpgJgi3Dmvg-a",
+    "url": "https://sudoswap.xyz/#/",
+    "pinned": false
+  },
+  {
+    "title": "The Honey Cast",
+    "category": "Community",
+    "description": "A podcast for https://x.com/berachain because beras can't read.\n",
+    "logo": "https://drive.google.com/thumbnail?id=1tW-O6JSRKPDqAOlzoZMfRIqhnkGbmVui",
+    "url": "https://open.spotify.com/show/5K0wEJkhM5b4gRX9gaY3Po?si=50679a0045cb47dd&nd=1&dlsi=46e17355e74e49b0",
+    "pinned": false
+  },
+  {
+    "title": "The Honey Jar",
+    "category": "Community",
+    "description": "Gateway to @berachain, creators of Honeycomb, a perks aggregator for top projects.",
+    "logo": "https://drive.google.com/thumbnail?id=1l6HGlj285l3CXjREQU41ICu8Z__6qG6A",
+    "url": "http://0xhoneyjar.mirror.xyz",
+    "pinned": false
+  },
+  {
+    "title": "Unemeta",
+    "category": "NFT",
+    "description": "An IP-Centric Community Layer",
+    "logo": "https://drive.google.com/thumbnail?id=1LTVy8KoqNbqBrocgY93aNBgDa_QMOXsX",
+    "url": "https://www.unemeta.com/",
+    "pinned": false
+  },
+  {
+    "title": "Wizzwoods",
+    "category": "Gaming",
+    "description": "Pixel farm game integrates interchain capabilities ",
+    "logo": "https://drive.google.com/thumbnail?id=1SEvNFPPB38ww0MoLMj9suYA2LnXV6Iye",
+    "url": "wizzwoods.com",
+    "pinned": false
+  },
+  {
+    "title": "Yeet It",
+    "category": "Gaming",
+    "description": "An on-chain game where players yeet $BERA to earn rewards.",
+    "logo": "https://drive.google.com/thumbnail?id=1XRJ3wx_BlcKJQnduyB8AE8Lz14XqZh8O",
+    "url": "http://yeetit.xyz",
+    "pinned": false
   }
 ]
