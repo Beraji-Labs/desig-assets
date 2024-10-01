@@ -98,7 +98,7 @@
   {
     "title": "Honeypot Finance ",
     "category": "Defi",
-    "description": "DeFi Hub & PoL Accelerator on https://x.com/Berachain  ",
+    "description": "DeFi Hub & PoL Accelerator on Berachain",
     "logo": "https://drive.google.com/thumbnail?id=1ilPYULp7khQMsmqXyHeVxt9LcIMEz5Fq",
     "url": "https://honeypotfinance.xyz/",
     "pinned": false
@@ -110,7 +110,7 @@
     "logo": "https://drive.google.com/thumbnail?id=1l76xvAC09JBUoSzu1CWOGTrcmustpuo6",
     "url": "https://infrared.finance/",
     "pinned": true,
-    "banner": "https://i.imgur.com/4jKWlxP.jpeg"
+    "banner": "https://drive.google.com/thumbnail?id=1NyyN87vfWhvUM4N9but_ALaordgxCG8T"
   },
   {
     "title": "IVX",
@@ -134,7 +134,7 @@
     "description": "Berachain's Native Liquidity Hub",
     "logo": "https://drive.google.com/thumbnail?id=1bTrkSDPOWxDMc2SEY6rlvi1PMYKvtdTu",
     "url": "https://kodiak.finance/",
-    "banner": "https://drive.google.com/thumbnail?id=1KjDHABUOSz-jgOo8QliG9xhLJWp-DVgN",
+    "banner": "https://drive.google.com/thumbnail?id=17a-oyHPnz4dgVf9wh_poehE1C818wVjq",
     "pinned": true
   },
   {
@@ -199,7 +199,8 @@
     "description": "Gateway to @berachain, creators of Honeycomb, a perks aggregator for top projects.",
     "logo": "https://drive.google.com/thumbnail?id=1l6HGlj285l3CXjREQU41ICu8Z__6qG6A",
     "url": "http://0xhoneyjar.mirror.xyz",
-    "pinned": false
+    "banner": "https://drive.google.com/thumbnail?id=1-Po5hXlHokvEzVw1KjDwuxZ8w8qjsjIH",
+    "pinned": true
   },
   {
     "title": "Unemeta",
