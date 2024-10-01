@@ -97,7 +97,7 @@
   },
   {
     "title": "Honeypot Finance ",
-    "category": "Defi, Launchpad",
+    "category": "Defi",
     "description": "DeFi Hub & PoL Accelerator on https://x.com/Berachain  ",
     "logo": "https://drive.google.com/thumbnail?id=1ilPYULp7khQMsmqXyHeVxt9LcIMEz5Fq",
     "url": "https://honeypotfinance.xyz/",
@@ -134,7 +134,8 @@
     "description": "Berachain's Native Liquidity Hub",
     "logo": "https://drive.google.com/thumbnail?id=1bTrkSDPOWxDMc2SEY6rlvi1PMYKvtdTu",
     "url": "https://kodiak.finance/",
-    "pinned": false
+    "banner": "https://drive.google.com/thumbnail?id=1KjDHABUOSz-jgOo8QliG9xhLJWp-DVgN",
+    "pinned": true
   },
   {
     "title": "Ooga Booga",
@@ -146,7 +147,7 @@
   },
   {
     "title": "Puffpaw",
-    "category": "Defi, Depin",
+    "category": "Defi",
     "description": "Vape to earn",
     "logo": "https://drive.google.com/thumbnail?id=1rzZ-0TqSDyoD76zXxoUYdB7uAL7pZvJA",
     "url": "https://www.puffpaw.xyz/",
