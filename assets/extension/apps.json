@@ -40,6 +40,14 @@
     "pinned": false
   },
   {
+    "title": "Berally",
+    "category": "Defi",
+    "description": "Social trading platform that helps you build cult.",
+    "logo": "https://drive.google.com/thumbnail?id=1b8jskFMVIwsIl820lTZKzzRw5RqrZudb",
+    "url": "https://bartio.berally.io/",
+    "pinned": false
+  },
+  {
     "title": "Beramonium Chronicles",
     "category": "Gaming",
     "description": "Berachain's first & biggest idle-RPG",
@@ -173,7 +181,7 @@
   {
     "title": "Smilee Finance",
     "category": "Defi",
-    "description": "Hyper-Leveraged Volatility Trading. Creators of DeFi's first convex payoff",
+    "description": "Smilee is a trading platform to bet on volatility, with leverage up to 15,000x and no liquidation",
     "logo": "https://drive.google.com/thumbnail?id=17gWYZf81gQHT6R8egiVmRCgo6u2UEa4U",
     "url": "https://app.smilee.finance/trade?dvp=0x550f20aA8CfAe02C5535CE9BD5b1FcE4b13361b8&strategy=bull",
     "pinned": false
@@ -212,9 +220,17 @@
     "pinned": false
   },
   {
+    "title": "Wagmipad",
+    "category": "Defi",
+    "description": "Wagmipad is a decentralized on-chain curation fair launchpad",
+    "logo": "https://drive.google.com/thumbnail?id=17lo_0eP4JgQL4MEJZ735wbWUoQWr5hJP",
+    "url": "https://wagmipad.org/",
+    "pinned": false
+  },
+  {
     "title": "Wizzwoods",
     "category": "Gaming",
-    "description": "Pixel farm game integrates interchain capabilities ",
+    "description": "Pixel farm game integrates interchain capabilities",
     "logo": "https://drive.google.com/thumbnail?id=1SEvNFPPB38ww0MoLMj9suYA2LnXV6Iye",
     "url": "wizzwoods.com",
     "pinned": false
