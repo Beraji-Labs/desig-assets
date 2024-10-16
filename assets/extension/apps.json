@@ -1,5 +1,13 @@
 [
   {
+    "title": "BearCage",
+    "category": "DeFi",
+    "description": "An all-in-One Berachain DApps Hub that allows users to discover the whole ecosystem right on Telegram.",
+    "logo": "https://drive.google.com/thumbnail?id=1_PJEzqvgqHqf_vGZyatX0khGp5R8PzdD",
+    "url": "https://t.me/bearcagebot/bearcage?startapp=berasig",
+    "pinned": false
+  },
+  {
     "title": "Bera Arena",
     "category": "Gaming",
     "description": "A fully on-chain RPG game",
@@ -238,7 +246,7 @@
   {
     "title": "Yeet It",
     "category": "Gaming",
-    "description": "An on-chain game where players yeet $BERA to earn rewards.",
+    "description": "Don't play this game",
     "logo": "https://drive.google.com/thumbnail?id=1XRJ3wx_BlcKJQnduyB8AE8Lz14XqZh8O",
     "url": "http://yeetit.xyz",
     "pinned": false
