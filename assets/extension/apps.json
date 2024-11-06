@@ -1,7 +1,7 @@
 [
   {
     "title": "BearCage",
-    "category": "Defi",
+    "category": "DeFi",
     "description": "An all-in-One Berachain DApps Hub that allows users to discover the whole ecosystem right on Telegram.",
     "logo": "https://drive.google.com/thumbnail?id=1_PJEzqvgqHqf_vGZyatX0khGp5R8PzdD",
     "url": "https://t.me/bearcagebot/bearcage?startapp=berasig",
@@ -84,6 +84,14 @@
     "category": "Gaming",
     "description": "A multiplayer, life-simulation and role-playing game for PC and mobile ",
     "logo": "https://drive.google.com/thumbnail?id=13QvBUPmAdYKzZd152MuZp-CR4jXQJfy-",
+    "url": "https://www.beratone-game.com/",
+    "pinned": false
+  },
+  {
+    "title": "BurrBear",
+    "category": "Defi",
+    "description": "BurrBear is your one stop stablecoin shop on Berachain",
+    "logo": "https://drive.google.com/thumbnail?id=138l32sbTYZETHaVeaZaK1FsUPPJyOxkB",
     "url": "https://www.beratone-game.com/",
     "pinned": false
   },
