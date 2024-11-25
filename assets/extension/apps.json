@@ -88,6 +88,14 @@
     "pinned": false
   },
   {
+    "title": "Bonzi",
+    "category": "Defi",
+    "description": "Bonzibot is the first SocialFi Trading Bot on @berachain which utilises POL to reward traders with $BGT for trading",
+    "logo": "https://drive.google.com/thumbnail?id=1XFalseYbIdOXH-MAI4PodFE1iFlmw7dK",
+    "url": "https://t.me/BonziTradingBot",
+    "pinned": false
+  },
+  {
     "title": "BurrBear",
     "category": "Defi",
     "description": "BurrBear is your one stop stablecoin shop on Berachain",
@@ -169,6 +177,14 @@
     "url": "https://app.oogabooga.io/",
     "banner": "https://drive.google.com/thumbnail?id=1cY3kaOwxsJ8JMvr_Bz6UbZCTvJp2FhdJ&sz=s2048",
     "pinned": true
+  },
+  {
+    "title": "Panda Bera",
+    "category": "Defi",
+    "description": "A synthetic token ecosystem optimized for Berachain's Proof-of-Liquidity",
+    "logo": "https://drive.google.com/thumbnail?id=1EiYKP7ZfRZwRTtcmnDk7vAWR9dL7Ls21",
+    "url": "https://bartio.pandabera.xyz",
+    "pinned": false
   },
   {
     "title": "Puffpaw",
