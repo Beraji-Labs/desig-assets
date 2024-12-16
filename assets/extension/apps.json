@@ -49,7 +49,7 @@
   },
   {
     "title": "Berally",
-    "category": "Defi",
+    "category": "Socialfi",
     "description": "Social trading platform that helps you build cult.",
     "logo": "https://drive.google.com/thumbnail?id=1b8jskFMVIwsIl820lTZKzzRw5RqrZudb",
     "url": "https://bartio.berally.io/",
@@ -289,6 +289,22 @@
     "description": "The Next-gen DeFi Consumer App Layer for Ethereum L2s and EVMs. Instantly access 300+ dApps across 17+ networks within a single interface",
     "logo": "https://drive.google.com/thumbnail?id=1nR3IAO-jx52xF3AWR3uvRG_Efw4e29xc",
     "url": "https://berachain.dapdap.net/",
+    "pinned": false
+  },
+  {
+    "title": "DEEK",
+    "category": "Socialfi",
+    "description": "Deek is the leak to earn platform to monetize your secrets",
+    "logo": "https://drive.google.com/thumbnail?id=19bimGWGq7GF_ckBm7NL5q-hFtuQG7cHw",
+    "url": "https://www.deek.network/login",
+    "pinned": false
+  },
+  {
+    "title": "Tierra",
+    "category": "Socialfi",
+    "description": "Tierra is revolutionizing how real-world influence is quantified, verified, and monetized in the digital age.",
+    "logo": "https://drive.google.com/thumbnail?id=1gL6Sa6skhsTTKxl28BTc0wPgEqY6g215",
+    "url": "https://tierraproject.io/",
     "pinned": false
   }
 ]
