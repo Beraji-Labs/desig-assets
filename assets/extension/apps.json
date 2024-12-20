@@ -187,6 +187,15 @@
     "pinned": true
   },
   {
+    "title": "Yeet It",
+    "category": "Gaming",
+    "description": "Don't play this game",
+    "logo": "https://drive.google.com/thumbnail?id=1XRJ3wx_BlcKJQnduyB8AE8Lz14XqZh8O",
+    "url": "http://yeetit.xyz",
+    "pinned": false,
+    "banner": "https://drive.google.com/thumbnail?id=1UAWb1cLdLJQCHI8NSoKd4osBPYN8L7Zs&sz=s2048"
+  },
+  {
     "title": "Panda Bera",
     "category": "Defi",
     "description": "A synthetic token ecosystem optimized for Berachain's Proof-of-Liquidity",
@@ -275,14 +284,7 @@
     "url": "wizzwoods.com",
     "pinned": false
   },
-  {
-    "title": "Yeet It",
-    "category": "Gaming",
-    "description": "Don't play this game",
-    "logo": "https://drive.google.com/thumbnail?id=1XRJ3wx_BlcKJQnduyB8AE8Lz14XqZh8O",
-    "url": "http://yeetit.xyz",
-    "pinned": false
-  },
+
   {
     "title": "DapDap",
     "category": "Defi",
